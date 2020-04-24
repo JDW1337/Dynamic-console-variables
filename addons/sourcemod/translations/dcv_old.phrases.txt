@@ -1,0 +1,40 @@
+"Phrases"
+{
+	"Prefix"
+	{
+		"ru" "{team}[DCV]{default}"
+		"en" "{team}[DCV]{default}"
+	}
+	"Cvar Bot"
+	{
+		"ru" "Считается ли игрок ботом?"
+		"en" "Is a player considered a bot?"
+	}
+	"Cvar Hide"
+	{
+		"ru" "Скрывать изменение переменных?"
+		"en" "Hide variable change?"
+	}
+	"Settings Reload"
+	{
+		"ru" "Настройки перегружены"
+		"en" "Settings overloaded"
+	}
+	
+	//Ваши переводы
+	"Test"
+	{
+		"ru" "Тест"
+		"en" "Test"
+	}
+	"Test2"
+	{
+		"ru" "Тест2"
+		"en" "Test2"
+	}
+	"Test3"
+	{
+		"ru" "Тест3"
+		"en" "Test3"
+	}
+}
